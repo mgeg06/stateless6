@@ -8,12 +8,12 @@
 
 ## Nombre de la Pràctica 🚀
 
-_creacion de una aplicacion stateless utilizando widgets, card, container_
+_creacion de una aplicaciòn stateless utilizando widgets, card, container_
 
 
 ### Objetivo 📋
 
-_El objetivo de esta practica es la creacion de la aplicacion correspondiente a stateless implementando los widgets sin estado, los card y container_
+_El objetivo de esta pràctica es la creaciòn de la aplicaciòn correspondiente a stateless implementando los widgets sin estado, los card y container_
 
 ### Resultados 🔧⚙️
 
