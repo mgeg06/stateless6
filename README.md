@@ -4,9 +4,9 @@
                      </p>
 
 
-<p align="center"> <h1> pràctica 06</h1></p>
+<p align="center"> <h1> Pràctica 06</h1></p>
 
-## Nombre de la Practica 🚀
+## Nombre de la Pràctica 🚀
 
 _creacion de una aplicacion stateless utilizando widgets, card, container_
 
