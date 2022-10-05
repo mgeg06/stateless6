@@ -21,7 +21,7 @@ _El objetivo de esta pràctica es la creaciòn de la aplicaciòn correspondiente
 
 :heavy_check_mark: `Resultado 1:` _En esta captura se puede observar el resultado final de nuestros widgets sin estado, que a su vez estan dentro de un container, a su vez contienen textos e iconos, se puede modificar el color que mas te agrade_
 
-<p align="center"><img src="https://user-images.githubusercontent.com/107955084/193704621-0eed827c-2865-4781-ad21-e49b0a1f8ca8.png" width="50%"/>></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/107955084/193704621-0eed827c-2865-4781-ad21-e49b0a1f8ca8.png" width="50%"/></p>
 
 
 
