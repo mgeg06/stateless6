@@ -4,7 +4,7 @@
                      </p>
 
 
-<p align="center"> <h1> Stateless </h1></p>
+<p align="center"> <h1> pràctica 06</h1></p>
 
 ## Nombre de la Practica 🚀
 
@@ -49,4 +49,4 @@ _El objetivo de esta practica es la creacion de la aplicacion correspondiente a 
 
 ## Versiòn 📌
 
-_v1.0_
+_v1.0.0_
