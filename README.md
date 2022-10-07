@@ -1,7 +1,4 @@
 
-<p align="left"><img src="https://user-images.githubusercontent.com/107955084/193476504-34163066-49d8-4491-b9ab-f4483c647d8e.jpeg" width="10%" align="right"><img src="https://user-images.githubusercontent.com/107955084/193477064-e11fd08e-bbf9-41d5-a065-75d38b05ce2c.jpg" width="15%"     
- />  
-                     </p>
 
 
 <p align="center"> <h1> Pràctica 06</h1></p>
@@ -41,6 +38,9 @@ _El objetivo de esta pràctica es la creaciòn de la aplicaciòn correspondiente
 
 
 
+<p align="left"><img src="https://user-images.githubusercontent.com/107955084/193476504-34163066-49d8-4491-b9ab-f4483c647d8e.jpeg" width="10%" align="right"><img src="https://user-images.githubusercontent.com/107955084/193477064-e11fd08e-bbf9-41d5-a065-75d38b05ce2c.jpg" width="15%"     
+ />  
+                     </p>
 ## Construido por✒️🛠️
 
 
